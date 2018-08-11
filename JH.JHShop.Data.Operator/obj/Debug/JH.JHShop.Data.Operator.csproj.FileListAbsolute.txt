@@ -1,9 +1,0 @@
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\bin\Debug\JH.JHShop.Data.Operator.dll
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\bin\Debug\JH.JHShop.Data.Operator.pdb
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\bin\Debug\JH.JHShop.Data.Model.dll
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\bin\Debug\JH.JHShop.Data.Model.pdb
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\obj\Debug\JH.JHShop.Data.Operator.csprojAssemblyReference.cache
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\obj\Debug\JH.JHShop.Data.Operator.csproj.CoreCompileInputs.cache
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\obj\Debug\JH.JHShop.Data.Operator.csproj.CopyComplete
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\obj\Debug\JH.JHShop.Data.Operator.dll
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Operator\obj\Debug\JH.JHShop.Data.Operator.pdb

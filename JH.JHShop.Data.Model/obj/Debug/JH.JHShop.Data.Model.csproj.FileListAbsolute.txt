@@ -1,6 +1,0 @@
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Model\bin\Debug\JH.JHShop.Data.Model.dll
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Model\bin\Debug\JH.JHShop.Data.Model.pdb
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Model\obj\Debug\JH.JHShop.Data.Model.csprojAssemblyReference.cache
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Model\obj\Debug\JH.JHShop.Data.Model.csproj.CoreCompileInputs.cache
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Model\obj\Debug\JH.JHShop.Data.Model.dll
-C:\Applications\CSharp\JHShop\JH.JHShop.Data.Model\obj\Debug\JH.JHShop.Data.Model.pdb
