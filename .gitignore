@@ -9,7 +9,7 @@ Thumbs.db
 *.aps
 *.pch
 *.vspscc
-.suo
+.vs
 *_i.c
 *_p.c
 *.ncb
