@@ -9,6 +9,7 @@ Thumbs.db
 *.aps
 *.pch
 *.vspscc
+.suo
 *_i.c
 *_p.c
 *.ncb
@@ -30,3 +31,4 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/.vs/JHShop/v15/.suo
